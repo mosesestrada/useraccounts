@@ -2,7 +2,7 @@
  <img src="https://i.imgur.com/zFOQzvk.jpg" height="60%" width="60%" alt="Raid Array logo"/>
 </p>
 
-<h1>Creating Organizational Units</h1>
+<h1>Adding a user in Active Directory</h1>
 
 
 <h2>Description</h2>
