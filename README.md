@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/d6K0zpl.jpg" height="60%" width="60%" alt="Raid Array logo"/>
+ <img src="https://i.imgur.com/zFOQzvk.jpg" height="60%" width="60%" alt="Raid Array logo"/>
 </p>
 
 <h1>Creating Organizational Units</h1>
