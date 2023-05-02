@@ -7,7 +7,7 @@
 
 <h2>Description</h2>
 
-Are you ready to take control of your domain? Active Directory is here to help! With its centralized management and organization of user accounts, computers, and applications, you'll be able to streamline your resources like never before. Plus, with robust security policies, you can rest easy knowing your domain is protected. Today, we'll show you how to add some new user accounts to your Active Directory domain and place them in the perfect organizational unit for your needs. Let's get started!
+Are you ready to take control of your domain? Active Directory is here to help! With its centralized management and organization of user accounts, computers, and applications, you'll be able to streamline your resources like never before. Plus, with robust security policies, you can rest easy knowing your domain is protected. Today, we'll show you how to add a new user account to your Active Directory domain and then we will configure their logon hours. Let's get started!
 
 <br />
 
@@ -23,24 +23,25 @@ From the left pane of Hyper-V Manager, select CORPSERVER. From the Virtual Machi
 
 
 <br/>
-<img src="https://i.imgur.com/jLl9Z4k.png" height="80%" width="80%" alt="Create OU's"/>
+<img src="https://i.imgur.com/75ni9Ap.png" height="80%" width="80%" alt="Create OU's"/>
 <br />
 <br />
 From Server Manager's menu bar, select Tools then select Active Directory Users and Computers.
 Select Next.
  <br/>
-<img src="https://i.imgur.com/xipIW1F.png" height="80%" width="80%" alt="Create OU's"/>
+<img src="https://i.imgur.com/oZpxGuY.png" height="80%" width="80%" alt="Create OU's"/>
 <br />
 <br />
-From the left pane, right-click CorpNet.xyz and then select New then Organizational Unit.
+Expand your domain controller folder which in this case is CorpNet.xyz and for this user we will be adding him to Sales>Users OU.
+To do this Highlight "users" under Sales, right click > new> user. Follow the arrows I have posted in the picture below.
  <br/>
-<img src="https://i.imgur.com/7hUq1U7.png" height="80%" width="80%" alt="Create OU's"/>
+<img src="https://i.imgur.com/Ez08Vyk.png" height="80%" width="80%" alt="Create OU's"/>
 <br />
 <br />
-Enter the name of the OU to be created.
+Enter first and Last name. The Logon name is the what the user will use to logon to the domain.
 
  <br/>
-<img src="https://i.imgur.com/iw6j2za.png" height="80%" width="80%" alt="Create OU's"/>
+<img src="https://i.imgur.com/BLFXRvZ.png" height="80%" width="80%" alt="Create OU's"/>
 <br />
 <br />
 Repeat those steps until you've inserted all your OU's. For this demo I've added the following OU's: Accounting,
