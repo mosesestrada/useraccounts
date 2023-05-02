@@ -23,31 +23,30 @@ From the left pane of Hyper-V Manager, select CORPSERVER. From the Virtual Machi
 
 
 <br/>
-<img src="https://i.imgur.com/75ni9Ap.png" height="80%" width="80%" alt="Create OU's"/>
+<img src="https://imgur.com/EWVN4H0" height="80%" width="80%" alt="Create OU's"/>
 <br />
 <br />
 From Server Manager's menu bar, select Tools then select Active Directory Users and Computers.
 Select Next.
  <br/>
-<img src="https://i.imgur.com/oZpxGuY.png" height="80%" width="80%" alt="Create OU's"/>
+<img src="https://i.imgur.com/SJRqx6y.png" height="80%" width="80%" alt="Create OU's"/>
 <br />
 <br />
 Expand your domain controller folder which in this case is CorpNet.xyz and for this user we will be adding him to Sales>Users OU.
 To do this Highlight "users" under Sales, right click > new> user. Follow the arrows I have posted in the picture below.
  <br/>
-<img src="https://i.imgur.com/Ez08Vyk.png" height="80%" width="80%" alt="Create OU's"/>
+<img src="https://i.imgur.com/tcT2KPW.png" height="80%" width="80%" alt="Create OU's"/>
 <br />
 <br />
 Enter first and Last name. The Logon name is the what the user will use to logon to the domain.
 
  <br/>
-<img src="https://i.imgur.com/BLFXRvZ.png" height="80%" width="80%" alt="Create OU's"/>
+<img src="https://i.imgur.com/EAIC4m4.png" height="80%" width="80%" alt="Create OU's"/>
 <br />
 <br />
-Repeat those steps until you've inserted all your OU's. For this demo I've added the following OU's: Accounting,
-Admins, Marketing, Research-Dev, Servers Support, Workstations, & Sales.
+Add a password for your user and click next.
 <br/>
-<img src="https://i.imgur.com/ZFwlWZL.png" height="80%" width="80%" alt="Create OU's"/>
+<img src="https://i.imgur.com/gwKXMTm.png" height="80%" width="80%" alt="Create OU's"/>
 <br />
 <br />
 From the left pane, select CorpNet.xyz and highlight Sales.
