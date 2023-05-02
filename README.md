@@ -38,7 +38,7 @@ To do this Highlight "users" under Sales, right click > new> user. Follow the ar
 <img src="https://i.imgur.com/tcT2KPW.png" height="80%" width="80%" alt="Adduser"/>
 <br />
 <br />
-Enter first and Last name. The Logon name is the what the user will use to logon to the domain. Click next.
+Enter first and Last name. The Logon name is what the user will use to logon to the domain. Click next.
 
  <br/>
 <img src="https://i.imgur.com/EAIC4m4.png" height="80%" width="80%" alt="Adduser"/>
