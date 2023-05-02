@@ -23,54 +23,54 @@ From the left pane of Hyper-V Manager, select CORPSERVER. From the Virtual Machi
 
 
 <br/>
-<img src="https://imgur.com/EWVN4H0" height="80%" width="80%" alt="Create OU's"/>
+<img src="https://i.imgur.com/EWVN4H0.png" height="80%" width="80%" alt="Adduser"/>
 <br />
 <br />
 From Server Manager's menu bar, select Tools then select Active Directory Users and Computers.
 Select Next.
  <br/>
-<img src="https://i.imgur.com/SJRqx6y.png" height="80%" width="80%" alt="Create OU's"/>
+<img src="https://i.imgur.com/SJRqx6y.png" height="80%" width="80%" alt="Adduser"/>
 <br />
 <br />
 Expand your domain controller folder which in this case is CorpNet.xyz and for this user we will be adding him to Sales>Users OU.
 To do this Highlight "users" under Sales, right click > new> user. Follow the arrows I have posted in the picture below.
  <br/>
-<img src="https://i.imgur.com/tcT2KPW.png" height="80%" width="80%" alt="Create OU's"/>
+<img src="https://i.imgur.com/tcT2KPW.png" height="80%" width="80%" alt="Adduser"/>
 <br />
 <br />
 Enter first and Last name. The Logon name is the what the user will use to logon to the domain.
 
  <br/>
-<img src="https://i.imgur.com/EAIC4m4.png" height="80%" width="80%" alt="Create OU's"/>
+<img src="https://i.imgur.com/EAIC4m4.png" height="80%" width="80%" alt="Adduser"/>
 <br />
 <br />
 Add a password for your user and click next.
 <br/>
-<img src="https://i.imgur.com/gwKXMTm.png" height="80%" width="80%" alt="Create OU's"/>
+<img src="https://i.imgur.com/gwKXMTm.png" height="80%" width="80%" alt="Adduser"/>
 <br />
 <br />
 Click finished.
 
  <br/>
-<img src="https://i.imgur.com/xz1ElLI.png" height="80%" width="80%" alt="Create OU's"/>
+<img src="https://i.imgur.com/xz1ElLI.png" height="80%" width="80%" alt="Adduser"/>
 <br />
 <br />
 Now to configure thier logon hours. Right click  the user and select properties.
  <br/>
-<img src="https://i.imgur.com/SXHpnbX.png" height="80%" width="80%" alt="Create OU's"/>
+<img src="https://i.imgur.com/SXHpnbX.png" height="80%" width="80%" alt="Adduser"/>
 <br />
 <br />
 Here you can adjust the user's logon hours. The blue bars are the hours the user can operate his workstation. 
  <br/>
-<img src="https://i.imgur.com/AdulRWU.png" height="80%" width="80%" alt="Create OU's"/>
+<img src="https://i.imgur.com/AdulRWU.png" height="80%" width="80%" alt="Adduser"/>
 <br />
 <br />
-That's it, wer're done! Simple, right? <br/>
-<img src="https://i.imgur.com/9cuTjD2.png" height="60%" width="60%" alt="Create OU's"/>
+That's it, we're done! Simple, right? <br/>
+<img src="https://i.imgur.com/9cuTjD2.png" height="60%" width="60%" alt="Adduser"/>
 <br />
 <br />
 Hope you enjoyed this demonstration. <br/>
-<img src="https://i.imgur.com/9cuTjD2.png" height="60%" width="60%" alt="Create OU's"/>
+<img src="https://i.imgur.com/9cuTjD2.png" height="60%" width="60%" alt="Adduser"/>
 <br />
 <br />
 
