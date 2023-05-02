@@ -49,26 +49,28 @@ Add a password for your user and click next.
 <img src="https://i.imgur.com/gwKXMTm.png" height="80%" width="80%" alt="Create OU's"/>
 <br />
 <br />
-From the left pane, select CorpNet.xyz and highlight Sales.
-From the menu bar, select the Create a new organizational unit in the current container icon.
+Click finished.
 
  <br/>
-<img src="https://i.imgur.com/tGmjcOi.png" height="80%" width="80%" alt="Create OU's"/>
+<img src="https://i.imgur.com/xz1ElLI.png" height="80%" width="80%" alt="Create OU's"/>
 <br />
 <br />
-Enter the name of the OU to be created. For this demo we will be nesting the following OU's within the Sales OU: SalesManagers & TempSales.
-
+Now to configure thier logon hours. Right click  the user and select properties.
  <br/>
-<img src="https://i.imgur.com/6PSXVB0.png" height="80%" width="80%" alt="Create OU's"/>
+<img src="https://i.imgur.com/SXHpnbX.png" height="80%" width="80%" alt="Create OU's"/>
 <br />
 <br />
-And that's it we are finished. This is what our result looks like:
+Here you can adjust the user's logon hours. The blue bars are the hours the user can operate his workstation. 
  <br/>
-<img src="https://i.imgur.com/on0ltiK.png" height="80%" width="80%" alt="Create OU's"/>
+<img src="https://i.imgur.com/AdulRWU.png" height="80%" width="80%" alt="Create OU's"/>
 <br />
 <br />
-Hope you enjoyed my demonstration. <br/>
-<img src="https://i.imgur.com/Ow3Mrgj.jpg" height="60%" width="60%" alt="Create OU's"/>
+That's it, wer're done! Simple, right? <br/>
+<img src="https://i.imgur.com/9cuTjD2.png" height="60%" width="60%" alt="Create OU's"/>
+<br />
+<br />
+Hope you enjoyed this demonstration. <br/>
+<img src="https://i.imgur.com/9cuTjD2.png" height="60%" width="60%" alt="Create OU's"/>
 <br />
 <br />
 
