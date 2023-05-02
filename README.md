@@ -38,7 +38,7 @@ To do this Highlight "users" under Sales, right click > new> user. Follow the ar
 <img src="https://i.imgur.com/tcT2KPW.png" height="80%" width="80%" alt="Adduser"/>
 <br />
 <br />
-Enter first and Last name. The Logon name is the what the user will use to logon to the domain.
+Enter first and Last name. The Logon name is the what the user will use to logon to the domain. Click next.
 
  <br/>
 <img src="https://i.imgur.com/EAIC4m4.png" height="80%" width="80%" alt="Adduser"/>
@@ -55,12 +55,12 @@ Click finished.
 <img src="https://i.imgur.com/xz1ElLI.png" height="80%" width="80%" alt="Adduser"/>
 <br />
 <br />
-Now to configure thier logon hours. Right click  the user and select properties.
+Now to configure the user's logon hours. Right click the user and select properties.
  <br/>
 <img src="https://i.imgur.com/SXHpnbX.png" height="80%" width="80%" alt="Adduser"/>
 <br />
 <br />
-Here you can adjust the user's logon hours. The blue bars are the hours the user can operate his workstation. 
+Here you can adjust the user's logon hours. The blue bars are the hours the user can operate his workstation. Click ok when finished. CLick ok again to close and finish.
  <br/>
 <img src="https://i.imgur.com/AdulRWU.png" height="80%" width="80%" alt="Adduser"/>
 <br />
