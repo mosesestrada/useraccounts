@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/zFOQzvk.jpg" height="60%" width="60%" alt="Raid Array logo"/>
+ <img src="https://i.imgur.com/OFMboaL.jpg" height="60%" width="60%" alt="Raid Array logo"/>
 </p>
 
 <h1>Adding a user in Active Directory</h1>
@@ -70,7 +70,7 @@ That's it, we're done! Simple, right? <br/>
 <br />
 <br />
 Hope you enjoyed this demonstration. <br/>
-<img src="https://i.imgur.com/9cuTjD2.png" height="60%" width="60%" alt="Adduser"/>
+<img src="https://i.imgur.com/3gMbo9H.jpg" height="60%" width="60%" alt="Adduser"/>
 <br />
 <br />
 
