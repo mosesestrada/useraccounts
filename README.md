@@ -19,7 +19,7 @@ Are you ready to take control of your domain? Active Directory is here to help! 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-From the left pane of Hyper-V Manager, select your host server, mine is "CORPSERVER". From the Virtual Machines pane, right-click your domain controller, mine is "CorpDC" and then select Connect.
+From the left pane of Hyper-V Manager, select your Hyper-V host server, mine is "CORPSERVER". From the Virtual Machines pane, right-click your domain controller, mine is "CorpDC" and then select Connect.
 
 <br/>
 <img src="https://i.imgur.com/EWVN4H0.png" height="80%" width="80%" alt="Adduser"/>
