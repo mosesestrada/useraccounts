@@ -19,8 +19,8 @@ Are you ready to take control of your domain? Active Directory is here to help! 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-For this demonstration we already have our virtual machines and domain controller set up. 
-From the left pane of Hyper-V Manager, select CORPSERVER. From the Virtual Machines pane, right-click CorpDC and then select Connect.
+
+From the left pane of Hyper-V Manager, select your host, mine is "CORPSERVER". From the Virtual Machines pane, right-click your domain controller, mine is "CorpDC" and then select Connect.
 
 
 <br/>
