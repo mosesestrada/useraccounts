@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/BFe0Qse.jpg" height="80%" width="80%" alt="adduserlogo"/>
+ <img src="https://i.imgur.com/MvrJiCA.jpg" height="80%" width="80%" alt="adduserlogo"/>
 </p>
 
 <h1>Adding a user in Active Directory</h1>
